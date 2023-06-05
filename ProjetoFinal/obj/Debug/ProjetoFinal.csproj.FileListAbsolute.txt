@@ -1,0 +1,22 @@
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.GenerateResource.cache
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Jaqueline\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.GenerateResource.cache
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\davib\OneDrive\Área de Trabalho\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
